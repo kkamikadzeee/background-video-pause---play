@@ -13,5 +13,5 @@ btn.addEventListener("click", () => {
     video.pause();
     fa.classList.remove("fa-pause");
     fa.classList.add("fa-play");
-  }
+  }.
 });
